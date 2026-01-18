@@ -35,3 +35,10 @@ if(true) {
 
 // console.log(data) /* yaha p humko ek chhota sa error dekhne ko milte hai jo let k karna aaya hai */
 
+// 3. const
+
+console.log("const:")
+
+const data = 20
+// data = 30 /* y ek const variable hai to isko aap change nahi kr skte ho */
+console.log(data)
